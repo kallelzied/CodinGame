@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.math.*;
 
-class Player {
+class Onboarding {
 
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
